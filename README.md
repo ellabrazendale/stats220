@@ -2,7 +2,7 @@
 # Welcome to My STATS 220 Repository!
 
 ## About
-This repository is created as part of my **STATS 220 course**. Here, I'll be sharing my assignments, project work, and study materials related to the course.
+This repository is created as part of my **STATS 220 course**. Here, I'll share my project work and ideas related to the course.
 
 ## Stay Connected
 - [Follow me on GitHub](https://github.com/ellabrazendale)
